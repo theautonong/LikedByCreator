@@ -1,10 +1,11 @@
 {
     "geode": "2.0.0",
-    "id": "antonazo.creatorlike",
+    "id": "fakesailent.creatorlike",
     "name": "Creator Like Marker",
     "version": "v1.0.0",
-    "developer": "Antonazo",
+    "developer": "FakeSailent",
     "description": "Marks comments liked by the creator with icon and optional text.",
     "dependencies": [],
     "resources": ["icon.png"]
 }
+
